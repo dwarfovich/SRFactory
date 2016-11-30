@@ -1,0 +1,1 @@
+Simple self-registering factory as it's described in https://www.codeproject.com/articles/567242/aplusc-b-bplusobjectplusfactory.
